@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-Products-heading {
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Products-card {
+    height: 350px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.headphones-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.laptops-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+
+}
+
+.Ecommerce-Website-Products-card-heading {
+    color: #fff;
+    font-size: 39px;
+    font-size: bold;
+}
+
+.Ecommerce-Website-Products-card-description {
+    color: #fff;
+    font-weight: 490;
+}
+
+.Ecommerce-Website-Products-card-button {
+    background-color: #fff;
+    width: 130px;
+    height: 49px;
+    border-radius: 25px;
+    color: #ff9f00;
+    font-weight: 490;
+    border-width: 0px;
+}
+
+.Ecommerce-Website-Products-modal-title {
+    font-size: 18px;
+}
+
+.Ecommerce-Website-Products-modal-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Ecommerce-Website-Products-modal-span {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.products-section-link {
+    color: #ff9f00;
+    font-weight: bold;
+}

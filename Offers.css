@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-Offers-Section-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.Website-Offers-image1 {
+    height: 300px;
+}
+
+.Website-Offers-image2 {
+    height: 250px;
+}
+
+.Website-Offers-heading {
+    color: #ad2167;
+    font-weight: bold;
+    font-family: "bree-serif";
+    font-size: 30px;
+}
+
+.Website-Offers-description {
+    color: #fff;
+    font-size: 30px;
+}
+
+.offer-in-percent {
+    font-weight: bold;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-Explore-Section-bg-container {
+    background-color: #f5f7fa;
+}
+
+.Explore-Section-heading {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "roboto";
+    color: #183b56;
+}
+
+.Explore-Section-card-bg-container {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.Explore-Section-card-heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Explore-Section-card-image {
+    border-radius: 15px;
+    width: 100%;
+}
+
+.Explore-Section-card-image-heading {
+    font-size: 22px;
+}
+
+.Explore-Section-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.Explore-Section-festive-card-image {
+    width: 100%;
+    padding: 20px;
+    border-radius: 50px;
+}
